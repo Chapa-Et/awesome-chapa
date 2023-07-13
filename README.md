@@ -10,15 +10,20 @@ SDK and Plugins
     
 [![](https://developer.chapa.co/uploads/dotnet.png)](https://github.com/Chapa-Et/chapa-dotnet "DotNet")
 [![](https://developer.chapa.co/uploads/express.png)](https://github.com/Chapa-Et/chapa-express "Express")
+</tr>
+</table>
+<table>
+</tr>
+  
 [![](https://developer.chapa.co/uploads/kotlin.png)](https://github.com/Chapa-Et/chapa-kotlin "Kotlin")
-
+[![](https://developer.chapa.co/uploads/laravel.png)](https://github.com/Chapa-Et/chapa-laravel "Laravel")
 </tr>
 </table>
 
 <table>
   <tr>
    
-[![](https://developer.chapa.co/uploads/laravel.png)](https://github.com/Chapa-Et/chapa-laravel "Laravel")
+
 [![](https://developer.chapa.co/uploads/python.png)](https://github.com/Chapa-Et/chapa-python "Python")
 [![](https://developer.chapa.co/uploads/nodejs.png)](https://github.com/Chapa-Et/chapa-nodejs "NodeJs")
 
@@ -30,7 +35,7 @@ SDK and Plugins
     
 [![](https://developer.chapa.co/uploads/nestjs.png)](https://github.com/Chapa-Et/chapa-nestjs "NestJs")
 [![](https://developer.chapa.co/uploads/django.png)](https://github.com/Chapa-Et/chapa-django "Django")
-[![](https://developer.chapa.co/uploads/go.png)](https://github.com/Chapa-Et/chapa-go "Go")
+
 
 </tr>
 </table>
@@ -38,7 +43,15 @@ SDK and Plugins
 <table>
   <tr>
     
+[![](https://developer.chapa.co/uploads/go.png)](https://github.com/Chapa-Et/chapa-go "Go")
 [![](https://developer.chapa.co/uploads/woocomerce.png)](https://github.com/Chapa-Et/chapa-woocomerce "WooCommerce")
+    
+  </tr>
+</table>
+
+<table>
+  <tr>
+    
 [![](https://developer.chapa.co/uploads/rust.png)](https://github.com/Chapa-Et/chapa-rust "Rust")
 [![](https://developer.chapa.co/uploads/odoo.png)](https://github.com/primeKal/chapa_payement_intgration "Odoo")
 
