@@ -9,7 +9,7 @@ SDK and Plugins
   <tr>
     
 [![](https://developer.chapa.co/uploads/dotnet.png)](https://github.com/Chapa-Et/chapa-dotnet "DotNet")
-[![](https://developer.chapa.co/uploads/express.png)](https://github.com/Chapa-Et/chapa-express "Express")
+[![](https://developer.chapa.co/uploads/express.png)](https://github.com/Chapa-Et/chapa-nodejs-express "Express")
 </tr>
 </table>
 <table>
@@ -44,7 +44,7 @@ SDK and Plugins
   <tr>
     
 [![](https://developer.chapa.co/uploads/go.png)](https://github.com/Chapa-Et/chapa-go "Go")
-[![](https://developer.chapa.co/uploads/woocomerce.png)](https://github.com/Chapa-Et/chapa-woocomerce "WooCommerce")
+[![](https://developer.chapa.co/uploads/woocomerce.png)](https://github.com/Chapa-Et/chapa-woocommerce "WooCommerce")
     
   </tr>
 </table>
